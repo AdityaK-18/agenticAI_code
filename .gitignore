@@ -1,0 +1,5 @@
+*.pdf
+*.whl
+*.ipynb
+.venv/Lib/site-packages/virtualenv/seed/wheels/embed/*.whl
+.venv/
