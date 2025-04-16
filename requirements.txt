@@ -1,20 +1,24 @@
-# ipykernel
-# langchain
-# pip == 25.0
-# python-dotenv
-# langchain_openai
-# langchain-core
-# langchain
-# langchain_community
-# bs4
-# faiss-cpu
-# langchain-groq
-# langchain_huggingface
-# pypdf
-# arxiv
-# pymupdf
-# wikipedia
-# lxml
-chromadb
-# pdfplumber
-# pinecone
+ipykernel
+langchain
+pip == 25.0
+python-dotenv
+langchain_openai
+langchain-core
+langchain
+langchain_community
+bs4
+faiss-cpu
+langchain-groq
+langchain_huggingface
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+# chromadb
+pdfplumber
+pinecone
+langgraph
+graphviz
+pydot
+langgraph-cli[inmem]
