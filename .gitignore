@@ -173,3 +173,5 @@ cython_debug/
 2-LangchainConti/2.2-DataTransformer/syllabus.pdf
 2-LangchainConti/2.2-DataTransformer/2.2.4-RecursiveJsonSplitter.ipynb
 2-LangchainConti/2.1-DataIngestion/syllabus.pdf
+
+.env
